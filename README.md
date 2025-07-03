@@ -67,6 +67,13 @@ This project aims to solve everyday water management issues like:
 ![image](https://github.com/user-attachments/assets/20529767-54b6-4143-bf6f-3b9b9939b580)
 ![WhatsApp Image 2025-07-03 at 17 06 53_8f66ca6c](https://github.com/user-attachments/assets/81f28a22-a45e-4524-9e92-fd646067a060)
 
+## 🎥 Video Demonstration
+
+Check out the live project implementation here:
+
+👉 [YouTube Video Demo](https://www.youtube.com/watch?v=VfOjV0ed8Zc)
+
+
 ## 🛠️ Future Enhancements
 
 * 📲 Mobile app integration (via Wi-Fi/Bluetooth gateway)
