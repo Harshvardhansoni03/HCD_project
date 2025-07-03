@@ -85,6 +85,6 @@ This project aims to solve everyday water management issues like:
 
 ## 📬 Contact
 
-For questions, collaboration, or project inquiries:
-📧 \[[soniharshvardhan14@gmail.com](mailto:soniharshvardhan14@gmail.com)]
+For questions, collaboration, or project inquiries:<br>
+📧 \[[soniharshvardhan14@gmail.com](mailto:soniharshvardhan14@gmail.com)]<br>
 📍 GitHub: [Harshvardhansoni03](https://github.com/Harshvardhansoni03)
